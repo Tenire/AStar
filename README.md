@@ -12,9 +12,9 @@
 	
 	Right-click the other nodes to choose a node and change the red node (final node)
 
-![Example](https://github.com/Tenire/AStar/img/example.png)
+![Example](https://github.com/Tenire/AStar/raw/master/img/example.png)
 
 Now you can download the jar to run and have a try
 
-[AStar.jar](https://github.com/Tenire/AStar/jar/AStar.jar)
+[AStar.jar](https://github.com/Tenire/AStar/raw/master/jar/AStar.jar)
 
