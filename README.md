@@ -16,5 +16,5 @@
 
 Now you can download the jar to run and have a try
 
-[AStar.jar](https://github.com/Tenire/AStar/raw/master/jar/AStar.jar)
+[AStar.jar](https://github.com/Tenire/AStar/releases/download/v1.0.0/Astar.jar)
 
